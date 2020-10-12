@@ -1,1 +1,1 @@
-# MusicBot Discor bot playlists
+# Discord bot playlists
